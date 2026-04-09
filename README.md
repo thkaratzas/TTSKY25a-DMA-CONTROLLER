@@ -9,7 +9,7 @@
 ### Authors
 
 Spyridon Vasileiou  
-Zaphirios Giapoutzis  
+Zafeirios Giapoutzis  
 Athanasios Karatzas  
 Zisis Katsaros  
 Kiriakos Kokkinos
